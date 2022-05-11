@@ -18,11 +18,11 @@ jobs:
       with:
         dotnet-version: 3.1.x
         
+    - name: Restore dependencies
+      run: dotnet restore DevOpsAssessment/DevOpsAssessment.sln
+      
+    - name: Build
+      run: dotnet build DevOpsAssessment/DevOpsAssessment.sln --no-restore
+      
     - name: Test
       run: dotnet test DevOpsAssessment/DevOpsAssessment.sln --no-build --verbosity normal
-      
-    - name:  Build and Test DevOps Assesment
-      uses: docker/login-action@v3.0.0
-      with: .
-        file: Api/Dockerfile
-        tag: api:1.0
