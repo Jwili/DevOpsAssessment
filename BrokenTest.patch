@@ -1,0 +1,13 @@
+diff --git a/DevOpsAssessment/Tests/Numbers.cs b/DevOpsAssessment/Tests/Numbers.cs
+index 6b887f8..37e4080 100644
+--- a/DevOpsAssessment/Tests/Numbers.cs
++++ b/DevOpsAssessment/Tests/Numbers.cs
+@@ -22,7 +22,7 @@ namespace Tests
+         [Theory]
+         [InlineData(new[]{1,1},0)]
+         [InlineData(new[]{1,2},-1)]
+-        [InlineData(new[]{1000,100},900)]
++        [InlineData(new[]{1000,100},90)]
+         [InlineData(new[]{1,1,1,1,1,1,1},-5)]
+         public void SubtractNumbers(int[] numbers, int expected)
+         {

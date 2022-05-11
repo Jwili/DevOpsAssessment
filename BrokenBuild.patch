@@ -1,0 +1,13 @@
+diff --git a/DevOpsAssessment/Api/Controllers/CalculateController.cs b/DevOpsAssessment/Api/Controllers/CalculateController.cs
+index cf680d3..99ea3ac 100644
+--- a/DevOpsAssessment/Api/Controllers/CalculateController.cs
++++ b/DevOpsAssessment/Api/Controllers/CalculateController.cs
+@@ -20,7 +20,7 @@ namespace Website.Controllers
+         [Route("add/{*numbers}")]
+         public int Add([FromRoute]string numbers )
+         {
+-            return Calculator.Add(numbers.ToInt());
++            return Calculator.Add(numbers.ToInt())
+         }
+         
+         [HttpGet]
