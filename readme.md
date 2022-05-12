@@ -1,11 +1,20 @@
 # Kaleidocode DevOps Assessment
+<p><a href="https://www.kaleidocode.co.za/"><img src="https://www.kaleidocode.co.za/uploads/6/5/1/4/65145063/7602342.png" alt="Give india logo" width="200" /></a></p>
+
+![AUR last modified](https://img.shields.io/aur/last-modified/DevOpsAssessment?color=%230000ff&logo=WakaTime&style=flat-square)
+![APM](https://img.shields.io/apm/dm/DevOpsAssessment?logo=AdGuard&style=flat-square)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/Jwili/DevOpsAssessment?color=%23ff0000&logo=Apache%20Kafka&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/Jwili_s?style=social)
+
+### Languages and Tools Used:
 <p>
-<a href="https://www.kaleidocode.co.za/">
-<img src="https://www.kaleidocode.co.za/uploads/6/5/1/4/65145063/7602342.png" alt="Give india logo" width="200" />
-</a>
+  
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 </p>
 
-<br>
+<br>  
 <br>
 ## Overview
 
@@ -37,3 +46,15 @@ Knowledge of how this code works is __not__ required
    * Different pipeline steps for builds inteded for develop and production respecitvely
    * Create a branch using the patch for `BrokenBuild` to show the build stage does fail
    * Create a branch using the patch for `BrokenTest` to show the test stage does fail
+
+
+## Acknowledgements
+
+ - [Working-With A Github Packages](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [YML Contents](https://docs.github.com/en/packages/quickstart)
+ - [GitHub: How to add Shields](https://www.youtube.com/watch?v=Dl-ekLb4quE)
+ - [How to add project to GitHub using git bashs](https://www.youtube.com/watch?v=Dl-ekLb4quE)
+ - [Learning GitLab](https://www.linkedin.com/learning/learning-gitlab-14539757/issues?autoplay=true&u=106231050)
+ - [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops-10005641/use-azure-devops-to-enhance-application-development?autoplay=true&u=106231050)
+ - [How to build a CI/CD pipeline with GitHub](https://www.youtube.com/watch?v=R8_veQiYBjI)
+
