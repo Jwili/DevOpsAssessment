@@ -1,7 +1,10 @@
-# Kaleidocode DevOps Assessment <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jwili&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
+# Kaleidocode DevOps Assessment
+<p>
+<a href="https://www.kaleidocode.co.za/">
+<img src="https://www.kaleidocode.co.za/uploads/6/5/1/4/65145063/7602342.png" alt="Give india logo" width="200" />
+</a>
+</p>
+
 <br>
 <br>
 ## Overview
