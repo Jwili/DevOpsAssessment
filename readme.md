@@ -5,17 +5,17 @@
 ![APM](https://img.shields.io/apm/dm/DevOpsAssessment?logo=AdGuard&style=flat-square)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/Jwili/DevOpsAssessment?color=%23ff0000&logo=Apache%20Kafka&style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jwili_s?style=social)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabelo-mfundo-jwili-255b96137/)
 
-### Languages and Tools Used:
+### Some Of The Tools Used:
 <p>
-  
+ <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-</p>
-
-<br>  
-<br>
+<p>
+<br><br>
+  
+  
 ## Overview
 
 This assessment intention is to:
