@@ -1,6 +1,9 @@
 # Kaleidocode DevOps Assessment
 <p><a href="https://www.kaleidocode.co.za/"><img src="https://www.kaleidocode.co.za/uploads/6/5/1/4/65145063/7602342.png" alt="Give india logo" width="200" /></a></p>
 
+[![Build and Test DevOps Assessment](https://github.com/Jwili/DevOpsAssessment/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Jwili/DevOpsAssessment/actions/workflows/dotnet.yml)
+
+
 ![AUR last modified](https://img.shields.io/aur/last-modified/DevOpsAssessment?color=%230000ff&logo=WakaTime&style=flat-square)
 ![APM](https://img.shields.io/apm/dm/DevOpsAssessment?logo=AdGuard&style=flat-square)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/Jwili/DevOpsAssessment?color=%23ff0000&logo=Apache%20Kafka&style=flat-square)
